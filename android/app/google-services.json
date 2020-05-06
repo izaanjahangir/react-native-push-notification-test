@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "50292476179",
+    "firebase_url": "https://izaan-test-push-notification.firebaseio.com",
+    "project_id": "izaan-test-push-notification",
+    "storage_bucket": "izaan-test-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50292476179:android:b8daf8a8f20bf2329872e6",
+        "android_client_info": {
+          "package_name": "com.kinexus.cscs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2-QI3f-S5Iu3UG-PQrdcz_abZoYED-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50292476179-c90t3k7b8fd1rebipuurspes3p2idm44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinexus.cscs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50292476179:android:39166f29fb6e1a7f9872e6",
+        "android_client_info": {
+          "package_name": "com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2-QI3f-S5Iu3UG-PQrdcz_abZoYED-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50292476179-c90t3k7b8fd1rebipuurspes3p2idm44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinexus.cscs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50292476179:android:7817ab7b318406b29872e6",
+        "android_client_info": {
+          "package_name": "com.testingcountly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2-QI3f-S5Iu3UG-PQrdcz_abZoYED-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50292476179-c90t3k7b8fd1rebipuurspes3p2idm44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinexus.cscs"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50292476179:android:9062cee24809aeca9872e6",
+        "android_client_info": {
+          "package_name": "com.testpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu2-QI3f-S5Iu3UG-PQrdcz_abZoYED-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50292476179-f8kb78qp7rvqbjnshp474ibkst6ks31q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50292476179-c90t3k7b8fd1rebipuurspes3p2idm44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kinexus.cscs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
